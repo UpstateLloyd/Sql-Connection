@@ -1,0 +1,334 @@
+C:\Users\lhotchkiss\source\repos\SQL Connection\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lhotchkiss\source\repos\SQL Connection\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lhotchkiss\source\repos\SQL Connection\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\lhotchkiss\source\repos\SQL Connection\bin\Debug\netcoreapp3.1\SQL Connection.exe
+C:\Users\lhotchkiss\source\repos\SQL Connection\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.AzureAD.UI.Views.dll
+C:\Users\lhotchkiss\source\repos\SQL Connection\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.AzureAD.UI.dll
+C:\Users\lhotchkiss\source\repos\SQL Connection\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\lhotchkiss\source\repos\SQL Connection\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\lhotchkiss\source\repos\SQL Connection\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lhotchkiss\source\repos\SQL Connection\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\lhotchkiss\source\repos\SQL Connection\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lhotchkiss\source\repos\SQL Connection\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lhotchkiss\source\repos\SQL Connection\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lhotchkiss\source\repos\SQL Connection\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lhotchkiss\source\repos\SQL Connection\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lhotchkiss\source\repos\SQL Connection\obj\Debug\netcoreapp3.1\SQL Connection.csprojAssemblyReference.cache
+C:\Users\lhotchkiss\source\repos\SQL Connection\obj\Debug\netcoreapp3.1\SQL Connection.AssemblyInfoInputs.cache
+C:\Users\lhotchkiss\source\repos\SQL Connection\obj\Debug\netcoreapp3.1\SQL Connection.AssemblyInfo.cs
+C:\Users\lhotchkiss\source\repos\SQL Connection\obj\Debug\netcoreapp3.1\SQL Connection.RazorComponent.input.cache
+C:\Users\lhotchkiss\source\repos\SQL Connection\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL Connection\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL Connection\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL Connection\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL Connection\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\LoginDisplay.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL Connection\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL Connection\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL Connection\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL Connection\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL Connection\obj\Debug\netcoreapp3.1\SQL Connection.RazorAssemblyInfo.cache
+C:\Users\lhotchkiss\source\repos\SQL Connection\obj\Debug\netcoreapp3.1\SQL Connection.RazorAssemblyInfo.cs
+C:\Users\lhotchkiss\source\repos\SQL Connection\obj\Debug\netcoreapp3.1\SQL Connection.TagHelpers.input.cache
+C:\Users\lhotchkiss\source\repos\SQL Connection\obj\Debug\netcoreapp3.1\SQL Connection.TagHelpers.output.cache
+C:\Users\lhotchkiss\source\repos\SQL Connection\obj\Debug\netcoreapp3.1\SQL Connection.RazorCoreGenerate.cache
+C:\Users\lhotchkiss\source\repos\SQL Connection\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\lhotchkiss\source\repos\SQL Connection\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\lhotchkiss\source\repos\SQL Connection\obj\Debug\netcoreapp3.1\SQL Connection.RazorTargetAssemblyInfo.cache
+C:\Users\lhotchkiss\source\repos\SQL Connection\obj\Debug\netcoreapp3.1\SQL Connection.RazorTargetAssemblyInfo.cs
+C:\Users\lhotchkiss\source\repos\SQL Connection\obj\Debug\netcoreapp3.1\SQL Connection.csproj.CopyComplete
+C:\Users\lhotchkiss\source\repos\SQL Connection\obj\Debug\netcoreapp3.1\staticwebassets\SQL Connection.StaticWebAssets.Manifest.cache
+C:\Users\lhotchkiss\source\repos\SQL Connection\obj\Debug\netcoreapp3.1\staticwebassets\SQL Connection.StaticWebAssets.xml
+C:\Users\lhotchkiss\source\repos\SQL Connection\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\lhotchkiss\source\repos\SQL Connection\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\lhotchkiss\source\repos\SQL Connection\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\lhotchkiss\source\repos\SQL Connection\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\lhotchkiss\source\repos\SQL Connection\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\lhotchkiss\source\repos\SQL Connection\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lhotchkiss\source\repos\SQL Connection\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lhotchkiss\source\repos\SQL Connection\bin\Debug\netcoreapp3.1\SQL Connection.deps.json
+C:\Users\lhotchkiss\source\repos\SQL Connection\bin\Debug\netcoreapp3.1\SQL Connection.runtimeconfig.json
+C:\Users\lhotchkiss\source\repos\SQL Connection\bin\Debug\netcoreapp3.1\SQL Connection.runtimeconfig.dev.json
+C:\Users\lhotchkiss\source\repos\SQL Connection\bin\Debug\netcoreapp3.1\SQL Connection.dll
+C:\Users\lhotchkiss\source\repos\SQL Connection\bin\Debug\netcoreapp3.1\SQL Connection.pdb
+C:\Users\lhotchkiss\source\repos\SQL Connection\bin\Debug\netcoreapp3.1\SQL Connection.Views.dll
+C:\Users\lhotchkiss\source\repos\SQL Connection\bin\Debug\netcoreapp3.1\SQL Connection.Views.pdb
+C:\Users\lhotchkiss\source\repos\SQL Connection\obj\Debug\netcoreapp3.1\SQL Connection.csproj.CoreCompileInputs.cache
+C:\Users\lhotchkiss\source\repos\SQL Connection\obj\Debug\netcoreapp3.1\SQL Connection.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lhotchkiss\source\repos\SQL Connection\obj\Debug\netcoreapp3.1\SQL Connection.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lhotchkiss\source\repos\SQL Connection\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Sales_Data.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL Connection\obj\Debug\netcoreapp3.1\RazorDeclaration\SQL Connection.dll
+C:\Users\lhotchkiss\source\repos\SQL Connection\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL Connection\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL Connection\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL Connection\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL Connection\obj\Debug\netcoreapp3.1\Razor\Pages\Sales_Data.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL Connection\obj\Debug\netcoreapp3.1\Razor\Shared\LoginDisplay.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL Connection\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL Connection\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL Connection\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL Connection\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL Connection\obj\Debug\netcoreapp3.1\SQL Connection.Views.pdb
+C:\Users\lhotchkiss\source\repos\SQL Connection\obj\Debug\netcoreapp3.1\SQL Connection.dll
+C:\Users\lhotchkiss\source\repos\SQL Connection\obj\Debug\netcoreapp3.1\SQL Connection.pdb
+C:\Users\lhotchkiss\source\repos\SQL Connection\obj\Debug\netcoreapp3.1\SQL Connection.genruntimeconfig.cache
+H:\Sutay_cutlist\Sql-connection\bin\Debug\netcoreapp3.1\appsettings.Development.json
+H:\Sutay_cutlist\Sql-connection\bin\Debug\netcoreapp3.1\appsettings.json
+H:\Sutay_cutlist\Sql-connection\bin\Debug\netcoreapp3.1\SQL Connection.exe
+H:\Sutay_cutlist\Sql-connection\bin\Debug\netcoreapp3.1\SQL Connection.deps.json
+H:\Sutay_cutlist\Sql-connection\bin\Debug\netcoreapp3.1\SQL Connection.runtimeconfig.json
+H:\Sutay_cutlist\Sql-connection\bin\Debug\netcoreapp3.1\SQL Connection.runtimeconfig.dev.json
+H:\Sutay_cutlist\Sql-connection\bin\Debug\netcoreapp3.1\SQL Connection.dll
+H:\Sutay_cutlist\Sql-connection\bin\Debug\netcoreapp3.1\SQL Connection.pdb
+H:\Sutay_cutlist\Sql-connection\bin\Debug\netcoreapp3.1\SQL Connection.Views.dll
+H:\Sutay_cutlist\Sql-connection\bin\Debug\netcoreapp3.1\SQL Connection.Views.pdb
+H:\Sutay_cutlist\Sql-connection\bin\Debug\netcoreapp3.1\Dapper.dll
+H:\Sutay_cutlist\Sql-connection\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.AzureAD.UI.Views.dll
+H:\Sutay_cutlist\Sql-connection\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.AzureAD.UI.dll
+H:\Sutay_cutlist\Sql-connection\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+H:\Sutay_cutlist\Sql-connection\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+H:\Sutay_cutlist\Sql-connection\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\Sutay_cutlist\Sql-connection\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+H:\Sutay_cutlist\Sql-connection\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+H:\Sutay_cutlist\Sql-connection\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\Sutay_cutlist\Sql-connection\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+H:\Sutay_cutlist\Sql-connection\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+H:\Sutay_cutlist\Sql-connection\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+H:\Sutay_cutlist\Sql-connection\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+H:\Sutay_cutlist\Sql-connection\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+H:\Sutay_cutlist\Sql-connection\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+H:\Sutay_cutlist\Sql-connection\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+H:\Sutay_cutlist\Sql-connection\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\Sutay_cutlist\Sql-connection\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\SQL Connection.csprojAssemblyReference.cache
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\SQL Connection.AssemblyInfoInputs.cache
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\SQL Connection.AssemblyInfo.cs
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\SQL Connection.RazorComponent.input.cache
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Sales_Data.razor.g.cs
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\LoginDisplay.razor.g.cs
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\SQL Connection.TagHelpers.input.cache
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\SQL Connection.TagHelpers.output.cache
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\SQL Connection.RazorCoreGenerate.cache
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\SQL Connection.RazorAssemblyInfo.cache
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\SQL Connection.RazorAssemblyInfo.cs
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\SQL Connection.RazorTargetAssemblyInfo.cache
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\SQL Connection.RazorTargetAssemblyInfo.cs
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\SQL Connection.Views.pdb
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\SQL Connection.csproj.CopyComplete
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\staticwebassets\SQL Connection.StaticWebAssets.Manifest.cache
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\staticwebassets\SQL Connection.StaticWebAssets.xml
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\SQL Connection.dll
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\SQL Connection.pdb
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\SQL Connection.genruntimeconfig.cache
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Dash_Slides.razor.g.cs
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\SQL Connection.csproj.CoreCompileInputs.cache
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\SQL Connection.MvcApplicationPartsAssemblyInfo.cs
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\SQL Connection.MvcApplicationPartsAssemblyInfo.cache
+H:\Sutay_cutlist\Sql-connection\bin\Debug\netcoreapp3.1\SQL Connection.StaticWebAssets.xml
+H:\Sutay_cutlist\Sql-connection\bin\Debug\netcoreapp3.1\Radzen.Blazor.dll
+H:\Sutay_cutlist\Sql-connection\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\RazorDeclaration\SQL Connection.dll
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\Razor\Pages\Dash_Slides.razor.g.cs
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\Razor\Pages\Sales_Data.razor.g.cs
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\Razor\Shared\LoginDisplay.razor.g.cs
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\SQL Connection.RazorComponent.output.cache
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\scopedcss\bundle\SQL Connection.styles.css
+H:\Sutay_cutlist\Sql-connection\bin\Debug\netcoreapp3.1\Data\birthday_list.json
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EditBirthday.razor.g.cs
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\Razor\Pages\EditBirthday.razor.g.cs
+H:\Sutay_cutlist\Sql-connection\bin\Debug\netcoreapp3.1\BlazorCarousel.dll
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EditAnnouncements.razor.g.cs
+H:\Sutay_cutlist\Sql-connection\obj\Debug\netcoreapp3.1\Razor\Pages\EditAnnouncements.razor.g.cs
+H:\Sutay_cutlist\Sql-connection\bin\Debug\netcoreapp3.1\BlazorInputFile.dll
+H:\Sutay_cutlist\Sql-connection\bin\Debug\netcoreapp3.1\Data\announce_expire.json
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\SQL Connection.dll
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\SQL Connection.pdb
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\Data\announce_expire.json
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\Data\birthday_list.json
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\SQL Connection.StaticWebAssets.xml
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\SQL Connection.exe
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\SQL Connection.deps.json
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\SQL Connection.runtimeconfig.json
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\SQL Connection.runtimeconfig.dev.json
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\SQL Connection.dll
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\SQL Connection.pdb
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\SQL Connection.Views.dll
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\SQL Connection.Views.pdb
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\BlazorCarousel.dll
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\BlazorInputFile.dll
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.AzureAD.UI.Views.dll
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.AzureAD.UI.dll
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\Radzen.Blazor.dll
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\SQL Connection.csprojAssemblyReference.cache
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\SQL Connection.AssemblyInfoInputs.cache
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\SQL Connection.AssemblyInfo.cs
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\SQL Connection.csproj.CoreCompileInputs.cache
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\SQL Connection.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\SQL Connection.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\SQL Connection.RazorComponent.input.cache
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Dash_Slides.razor.g.cs
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EditAnnouncements.razor.g.cs
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EditBirthday.razor.g.cs
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Sales_Data.razor.g.cs
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\LoginDisplay.razor.g.cs
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\SQL Connection.RazorComponent.output.cache
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\RazorDeclaration\SQL Connection.dll
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\SQL Connection.TagHelpers.input.cache
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\SQL Connection.TagHelpers.output.cache
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\SQL Connection.RazorCoreGenerate.cache
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\Razor\Pages\Dash_Slides.razor.g.cs
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\Razor\Pages\EditAnnouncements.razor.g.cs
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\Razor\Pages\EditBirthday.razor.g.cs
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\Razor\Pages\Sales_Data.razor.g.cs
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\Razor\Shared\LoginDisplay.razor.g.cs
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\SQL Connection.RazorAssemblyInfo.cache
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\SQL Connection.RazorAssemblyInfo.cs
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\staticwebassets\SQL Connection.StaticWebAssets.Manifest.cache
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\staticwebassets\SQL Connection.StaticWebAssets.xml
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\scopedcss\bundle\SQL Connection.styles.css
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\SQL Connection.RazorTargetAssemblyInfo.cache
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\SQL Connection.RazorTargetAssemblyInfo.cs
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\SQL Connection.Views.pdb
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\SQL Connection.csproj.CopyComplete
+C:\Users\lhotchkiss\Desktop\New folder\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\SQL Connection.genruntimeconfig.cache
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\Data\announce_expire.json
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\Data\birthday_list.json
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\SQL Connection.StaticWebAssets.xml
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\SQL Connection.exe
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\SQL Connection.deps.json
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\SQL Connection.runtimeconfig.json
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\SQL Connection.runtimeconfig.dev.json
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\SQL Connection.dll
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\SQL Connection.pdb
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\SQL Connection.Views.dll
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\SQL Connection.Views.pdb
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\BlazorCarousel.dll
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\BlazorInputFile.dll
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.AzureAD.UI.Views.dll
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.AzureAD.UI.dll
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\Radzen.Blazor.dll
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\SQL Connection.AssemblyInfoInputs.cache
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\SQL Connection.AssemblyInfo.cs
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\SQL Connection.csproj.CoreCompileInputs.cache
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\SQL Connection.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\SQL Connection.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\SQL Connection.RazorComponent.input.cache
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Dash_Slides.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EditAnnouncements.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EditBirthday.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Sales_Data.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\LoginDisplay.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\SQL Connection.RazorComponent.output.cache
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\RazorDeclaration\SQL Connection.dll
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\SQL Connection.TagHelpers.input.cache
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\SQL Connection.TagHelpers.output.cache
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\SQL Connection.RazorCoreGenerate.cache
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\Razor\Pages\Dash_Slides.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\Razor\Pages\EditAnnouncements.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\Razor\Pages\EditBirthday.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\Razor\Pages\FetchData.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\Razor\Pages\Sales_Data.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\Razor\Shared\LoginDisplay.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\SQL Connection.RazorAssemblyInfo.cache
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\SQL Connection.RazorAssemblyInfo.cs
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\staticwebassets\SQL Connection.StaticWebAssets.Manifest.cache
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\staticwebassets\SQL Connection.StaticWebAssets.xml
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\SQL Connection.RazorTargetAssemblyInfo.cache
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\SQL Connection.RazorTargetAssemblyInfo.cs
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\SQL Connection.Views.pdb
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\SQL Connection.csproj.CopyComplete
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\SQL Connection.dll
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\SQL Connection.pdb
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\SQL Connection.genruntimeconfig.cache
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\SQL Connection.csproj.AssemblyReference.cache
+C:\Users\lhotchkiss\source\repos\SQL-Connection\Sql-connection-master\Sql-connection-master\obj\Debug\netcoreapp3.1\SQL Connection.GeneratedMSBuildEditorConfig.editorconfig

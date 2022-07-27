@@ -1,0 +1,56 @@
+﻿@page "/sales"
+@using SQL_Connection.Data;
+@inject SQL_Connection.IServices.ISalesService salesService;
+
+<h3>Sales Data</h3>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Sales Rep</th>
+            <th>Customer Name</th>
+            <th>Order Date</th>
+            <th>Order Value</th>
+            <th>Status</th>
+            <th>approved</th>
+            <th>Territory</th>
+            <th>Month</th>
+            <th>Year</th>
+            <th>Price List Code</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var sal in @sales)
+        {
+        <tr>
+            <td>@sal.CustomerSalesRep</td>
+            <td>@sal.CustomerName</td>
+            <td>@sal.OrderDate</td>
+            <td>@sal.OrderValue</td>
+            <td>@sal.Status</td>
+            <td>@sal.approved</td>
+            <td>@sal.Territory</td>
+            <td>@sal.Month</td>
+            <td>@sal.Year</td>
+            <td>@sal.PriceListCode</td>
+        </tr>
+        }
+    </tbody>
+</table>
+        
+
+@code {
+    List<Sales> sales = new List<Sales>();
+    Sales sale = new Sales();
+    string Message = "";
+
+    protected override async Task OnInitializedAsync()
+    {
+        GetSales();
+    }
+
+    private void GetSales()
+    {
+        sales = salesService.GetSales();
+    }
+}

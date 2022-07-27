@@ -1,0 +1,168 @@
+﻿@page "/edit_announcements"
+@using System.IO
+@using BlazorInputFile
+@using System.ComponentModel
+@using Newtonsoft.Json;
+@inject IJSRuntime JSRuntime
+
+
+<h1>Upload announcement slide</h1>
+
+<p>@status</p>
+<p>Add image file:</p>
+<InputFile OnChange="Handle_Selection" />
+<br>
+<br />
+<strong>File selected:</strong>
+@if (ms != null)
+{
+    @filename
+}
+
+<br>
+<br />
+
+<EditForm Model="@bar">
+    <p>Set expiration date:</p>
+    <InputDate @bind-Value="bar.expires" @bind-Value:format="dd/MM/yyyy" />
+
+    <br><br>
+    <button @onclick="@SaveCurrentFile">Add</button>
+</EditForm>
+<br />
+<br />
+<h3>Current slides and expiration dates:</h3>
+<button @onclick="@removeOld">Remove all expired</button>
+<ul>
+    @foreach (String filename in sortDictKeys(loadSlides()))
+    {
+        var a = count;
+        count += 1;
+        <li>
+            <p>@slides[filename].ToString()</p>
+            <img src=@("AnnouncementSlides/"+filename) width="300px" />
+            <button id="pg-button-@count" class="btn btn-primary btn-sm" type="button" @onclick="@(() => removeSlide(a))">Remove</button>
+        </li>
+        <br />
+        <br />
+    }
+    @{count = 0;}
+</ul>
+
+@code {
+    private class Foo
+    {
+        public DateTime expires { get; set; } = DateTime.Now;
+    }
+    Foo bar = new Foo();
+    MemoryStream ms;
+    string filename;
+    public string status = "";
+    private static string expireJsonFile = "Data/announce_expire.json";
+    private Dictionary<String, DateTime> slides;
+    private int count = 0;
+
+    async void Handle_Selection(IFileListEntry[] files)
+    {
+        try
+        {
+            var file = files.FirstOrDefault();
+            ms = new MemoryStream();
+            if (file != null)
+            {
+                filename = file.Name;
+                await file.Data.CopyToAsync(ms);
+            }
+            else
+            {
+                await JSRuntime.InvokeVoidAsync("alert", "Error loading file!");
+            }
+        }
+        catch (Exception e)
+        {
+            await JSRuntime.InvokeVoidAsync("alert", $"Error loading file!\n{e}");
+        }
+    }
+
+    async void SaveCurrentFile()
+    {
+        try
+        {
+            using (FileStream fs = File.Create($"wwwroot/AnnouncementSlides/{filename}"))
+            {
+                ms.WriteTo(fs);
+            }
+            Dictionary<String, DateTime> items = loadSlides();
+
+            items.Add(filename, bar.expires);
+            using (StreamWriter file = File.CreateText(expireJsonFile))
+            {
+                String json = JsonConvert.SerializeObject(items);
+                file.Write(json);
+            }
+
+            await JSRuntime.InvokeVoidAsync("alert", $"{filename} saved!");
+        }
+        catch (System.NullReferenceException)
+        {
+            await JSRuntime.InvokeVoidAsync("alert", "No file found to save!");
+        }
+        catch (System.IO.IOException e)
+        {
+            await JSRuntime.InvokeVoidAsync("alert", $"Error saving file!\n{e.Message}");
+        }
+    }
+
+    private Dictionary<String, DateTime> loadSlides()
+    {
+        // read in the json file
+        Dictionary<String, DateTime> items;
+        using (StreamReader r = new StreamReader(expireJsonFile))
+        {
+            string json = r.ReadToEnd();
+            items = JsonConvert.DeserializeObject<Dictionary<String, DateTime>>(json); // The json should be {"file_name":expiredate,}
+        }
+        slides = items;
+        return items;
+    }
+
+    private List<String> sortDictKeys(Dictionary<String, DateTime> dict)
+    {
+        List<String> all_strs = dict.Keys.ToList();
+        all_strs.Sort((a, b) => ((dict[a] - DateTime.Today).Days - (dict[b] - DateTime.Today).Days));
+        return all_strs;
+    }
+
+    async void removeSlide(int index)
+    {
+        try
+        {
+            Dictionary<String, DateTime> current = loadSlides();
+            string remove = sortDictKeys(current)[index];
+            File.Delete("wwwroot/AnnouncementSlides/" + remove);
+            current.Remove(remove);
+            using (StreamWriter file = File.CreateText(expireJsonFile))
+            {
+                String json = JsonConvert.SerializeObject(current);
+                file.Write(json);
+            }
+            await JSRuntime.InvokeVoidAsync("alert", "Announcement removed successfully!");
+        }
+        catch (Exception e)
+        {
+            await JSRuntime.InvokeVoidAsync("alert", $"Error saving file!\n{e.Message}");
+        }
+    }
+
+    async void removeOld()
+    {
+        List<string> files = sortDictKeys(slides);
+        for (int i = files.Count - 1; i >= 0; i--)
+        {
+            if (slides[files[i]] < DateTime.Now)
+            {
+                removeSlide(i);
+            }
+        }
+    }
+}
